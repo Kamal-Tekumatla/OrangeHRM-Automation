@@ -1,0 +1,1 @@
+public class LoginPage { /* POM for Login */ }
